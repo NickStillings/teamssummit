@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Central Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Donald Donais";RSVP=TRUE:mailto:ddonais@microsoft.com
+CLASS:PUBLIC
+CREATED:20220311T013412Z
+DESCRIPTION:Click to Join: https://aka.ms/meetingmondays/joinsession <https
+	://aka.ms/meetingmonday/joinsession>  \n\n \n\nCalling IT Pros\, Champions
+	 and Power Users: Meetings are an important part of our day and where we e
+	xperience the culture of our organizations. Join us each week through June
+	 for a 'snackable' best practice on meetings in Microsoft Teams. We'll als
+	o post a shareable resource (one-pager\, email template\, and copy for you
+	r intranet) that you can use with your users to ensure your meetings suppo
+	rt a positive culture and still allow time for individual reflection and p
+	roductivity.\n\n \n\nPlease Check https://aka.ms/meetingmondays/ for each 
+	week’s topic.\n\n \n\n15 Minutes: Weekly Meeting Best Practice\n\n5 Minu
+	tes: Communications Assets: One-Pager and Email Template\n\n10 Minutes: Op
+	en Q&A\n\n \n\nSessions are recorded and posted to https://aka.ms/meetingm
+	ondays\n\n \n\n
+DTEND;TZID="Central Standard Time":20220314T125500
+DTSTAMP:20220311T013315Z
+DTSTART;TZID="Central Standard Time":20220314T123000
+LAST-MODIFIED:20220311T013412Z
+LOCATION:https://aka.ms/meetingmondays/joinsession
+ORGANIZER;CN="Nick Stillings":mailto:Nick.Stillings@microsoft.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=16;BYDAY=MO
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Microsoft Meeting Mondays
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000050CA99ABB434D801000000000000000
+	01000000012711D5687D8664D8DC56E8C98719E89
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Mso
+	Normal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-
+	serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0
+	563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-typ
+	e:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowt
+	ext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\
+	;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1
+	.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte 
+	mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![en
+	dif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:
+	ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lan
+	g=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div c
+	lass=WordSection1><p class=MsoNormal><strong><span style='font-family:"Cal
+	ibri"\,sans-serif\;color:#212121'>Click to Join: </span></strong><a href="
+	https://aka.ms/meetingmonday/joinsession"><span style='color:#008272'>http
+	s://aka.ms/meetingmondays/joinsession</span></a> <o:p></o:p></p><p class=M
+	soNormal style='transition: margin-bottom 0.3s ease 0s\;font-variant-ligat
+	ures: none\;font-variant-caps: normal\;orphans: 2\;white-space:pre-wrap\;w
+	idows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thickness: initi
+	al\;text-decoration-style: initial\;text-decoration-color: initial\;word-s
+	pacing:0px' id="_1tcMVLqP9Ugzbd"><o:p>&nbsp\;</o:p></p><p class=MsoNormal>
+	Calling IT Pros\, Champions and Power Users: Meetings are an important par
+	t of our day and where we experience the culture of our organizations. Joi
+	n us each week through June for a 'snackable' best practice on meetings in
+	 Microsoft Teams. We'll also post a shareable resource (one-pager\, email 
+	template\, and copy for your intranet) that you can use with your users to
+	 ensure your meetings support a positive culture and still allow time for 
+	individual reflection and productivity.<o:p></o:p></p><p class=MsoNormal s
+	tyle='transition: margin-bottom 0.3s ease 0s\;font-variant-ligatures: none
+	\;font-variant-caps: normal\;orphans: 2\;white-space:pre-wrap\;widows: 2\;
+	-webkit-text-stroke-width: 0px\;text-decoration-thickness: initial\;text-d
+	ecoration-style: initial\;text-decoration-color: initial\;word-spacing:0px
+	' id="_rqjr5ta6vkSLLG"><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Please Che
+	ck <a href="https://aka.ms/meetingmondays/">https://aka.ms/meetingmondays/
+	</a> for each week&#8217\;s topic.<o:p></o:p></p><p class=MsoNormal style=
+	'transition: margin-bottom 0.3s ease 0s\;font-variant-ligatures: none\;fon
+	t-variant-caps: normal\;orphans: 2\;white-space:pre-wrap\;widows: 2\;-webk
+	it-text-stroke-width: 0px\;text-decoration-thickness: initial\;text-decora
+	tion-style: initial\;text-decoration-color: initial\;word-spacing:0px' id=
+	"_1tcMVLqP9Ugzbd"><o:p>&nbsp\;</o:p></p><p class=MsoNormal style='transiti
+	on: margin-bottom 0.3s ease 0s\;font-variant-ligatures: none\;font-variant
+	-caps: normal\;orphans: 2\;white-space:pre-wrap\;widows: 2\;-webkit-text-s
+	troke-width: 0px\;text-decoration-thickness: initial\;text-decoration-styl
+	e: initial\;text-decoration-color: initial\;word-spacing:0px' id="_sxneBm8
+	5HFJ3Vi"><strong><span style='font-family:"Calibri"\,sans-serif\;color:#21
+	2121'>15 Minutes: </span></strong>Weekly Meeting Best Practice<o:p></o:p><
+	/p><p class=MsoNormal style='transition: margin-bottom 0.3s ease 0s\;font-
+	variant-ligatures: none\;font-variant-caps: normal\;orphans: 2\;white-spac
+	e:pre-wrap\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thi
+	ckness: initial\;text-decoration-style: initial\;text-decoration-color: in
+	itial\;word-spacing:0px' id="_FAvRyGrJ1hJJyC"><strong><span style='font-fa
+	mily:"Calibri"\,sans-serif\;color:#212121'>5 Minutes:</span></strong> Comm
+	unications Assets: One-Pager and Email Template<o:p></o:p></p><p class=Mso
+	Normal style='transition: margin-bottom 0.3s ease 0s\;font-variant-ligatur
+	es: none\;font-variant-caps: normal\;orphans: 2\;white-space:pre-wrap\;wid
+	ows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thickness: initial
+	\;text-decoration-style: initial\;text-decoration-color: initial\;word-spa
+	cing:0px' id="_upA3xfXYNDsBt1"><strong><span style='font-family:"Calibri"\
+	,sans-serif\;color:#212121'>10 Minutes:</span></strong> Open Q&amp\;A<o:p>
+	</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Sess
+	ions are recorded and posted to <a href="https://aka.ms/meetingmondays">ht
+	tps://aka.ms/meetingmondays</a><o:p></o:p></p><p class=MsoNormal><o:p>&nbs
+	p\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20220311T013315Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
